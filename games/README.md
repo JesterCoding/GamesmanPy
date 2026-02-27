@@ -1,5 +1,7 @@
 # Adding a Game/Puzzle
 
+Ok so there has been some changes to the doc, testing 1234
+
 Make a copy of `games/src/games/example.py` and rename. Update class name, variants, `n_players`, etc. to match.
 
 Import the new class in `games/src/games/game_manager.py`, and add to `game_list`.

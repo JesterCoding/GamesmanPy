@@ -1,7 +1,7 @@
 from .clobber import Clobber
 from .horses import Horses
 from .pancakes import Pancakes
-from sokoban import Sokoban
+from .sokoban import Sokoban
 from models import *
 
 game_list = {
